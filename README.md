@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oussama</h1>
-<h3 align="center">A passionate fullstack developer since my childhood.</h3>
+<h3 align="center">A passionate fullstack web developer since my childhood.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melchyore&label=Profile%20views&color=0e75b6&style=flat" alt="melchyore" /> </p>
 
